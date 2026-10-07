@@ -1,0 +1,44 @@
+### 1. Planning
+
+* Identify the main requirements of the SA Bank system.
+* Define project goals, scope, and resources.
+* Prepare a schedule and estimate the project cost.
+
+### 2. Requirement Analysis
+
+* Collect requirements from bank customers and employees.
+* Identify features like account management, deposits, withdrawals, and transactions.
+* Document the functional and non-functional requirements.
+
+### 3. Design
+
+* Design the user interface for customers and bank staff.
+* Design the database for storing customer and transaction details.
+* Decide the system architecture, modules, and security features.
+
+### 4. Development
+
+* Develop the SA Bank application using suitable programming languages.
+* Implement modules such as login, account management, and transactions.
+* Connect the application with the database.
+
+### 5. Testing
+
+* Test each module to identify errors and bugs.
+* Perform integration and system testing.
+* Verify security, accuracy, and reliability of transactions.
+
+### 6. Deployment
+
+* Install and configure the SA Bank system for users.
+* Transfer the tested application to the production environment.
+* Provide user access and basic training.
+
+### 7. Maintenance
+
+* Fix bugs and issues reported by users.
+* Update the system with new banking features.
+* Monitor performance and improve security regularly.
+
+
+
